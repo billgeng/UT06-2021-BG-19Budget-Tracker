@@ -1,0 +1,33 @@
+{
+  "name": "ut06-2021-bg-19budget-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.12",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.59.1",
+    "webpack-cli": "^4.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "webpack": "webpack --watch",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billgeng/UT06-2021-BG-19Budget-Tracker.git"
+  },
+  "keywords": [],
+  "author": "Bill Geng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/billgeng/UT06-2021-BG-19Budget-Tracker/issues"
+  },
+  "homepage": "https://github.com/billgeng/UT06-2021-BG-19Budget-Tracker#readme"
+}
