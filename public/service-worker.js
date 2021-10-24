@@ -1,9 +1,10 @@
-const CACHE_NAME = 'my-site-cache-v3';
-const DATA_CACHE_NAME = 'data-cache-v3';
+const CACHE_NAME = 'budget-tracker-cache-v1';
+const DATA_CACHE_NAME = 'budget-data-cache-v1';
 
 const FILES_TO_CACHE = [
     '/',
     '/js/index.js',
+    'js/idb.js',
     '/index.html',
     '/manifest.json',
     '/service-worker.js',
