@@ -33,7 +33,8 @@ npm i mongoose, npm i morgan, npm i express,npm start
 
 npm i , npm start
 
-![alt text](.\Screenshot budget-tracker.png)
+![alt text](Screenshot budget-tracker.png)
+
 
 ## Badges
 
